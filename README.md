@@ -2,8 +2,7 @@
 agharivaa
 
 varvrevre
-grf
-f
+gr
 reg
 er
 r

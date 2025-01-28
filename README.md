@@ -1,6 +1,4 @@
 # os_assignments
-<<<<<<< HEAD
-=======
 agharivaa
 
 varvrevre
@@ -11,4 +9,3 @@ rreihgrfhrhfuhrqijr
 as
 asdf
 asf
->>>>>>> main
